@@ -42,7 +42,6 @@ El trabajo se organizó en cinco experimentos: arquitectura y kernel, conectivid
 investigacion-wsl2/
 ├── README.md
 ├── .gitignore
-├── PUBLICACION.md
 ├── docs/
 │   └── investigacion/
 │       ├── informe.pdf
