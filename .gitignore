@@ -1,0 +1,26 @@
+# Caché y entornos locales de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Datos grandes de ejecución (el dataset no se aloja en Git)
+*.csv
+*.tsv
+*.parquet
+*.sqlite
+*.db
+
+# Registros locales del diagnóstico y archivos temporales
+resultados_wsl2/
+*.log
+*.tmp
+prueba_loop_*.img
+
+# Preferencias de editor y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
